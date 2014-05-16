@@ -1,4 +1,4 @@
-Bootstrap-Dual-listbox-for-asp.net-froms
+Bootstrap-Dual-listbox-for-asp.net-forms
 ========================================
 
 ASp.net user control /Based on bootstrap-DualListbox responsive control :http://www.virtuosoft.eu/code/bootstrap-duallistbox/ 
