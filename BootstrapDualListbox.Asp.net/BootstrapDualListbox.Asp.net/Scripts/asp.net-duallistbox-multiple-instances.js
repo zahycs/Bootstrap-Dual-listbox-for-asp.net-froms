@@ -1,4 +1,6 @@
-﻿function InitDualDropList() {
+﻿// asp.net froms bootstrap dual listbox support 
+//by: Zahy hwary 
+function InitDualDropList() {
 
     $('div.dummy > select').each(function (index, element) {
         $(element).bootstrapDualListbox({
