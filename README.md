@@ -5,4 +5,4 @@ ASp.net user control /Based on bootstrap-DualListbox responsive control :http://
 
 -Configurable from server side.
 -Supports multibale instances in the same page.
--It also gives the ability to get and set selected options by Values.
+-It also gives the ability to get and set selected options by Values,from server side code behind.
