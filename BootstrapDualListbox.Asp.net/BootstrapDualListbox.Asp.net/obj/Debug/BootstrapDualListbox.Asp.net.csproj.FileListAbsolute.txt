@@ -1,0 +1,5 @@
+c:\users\zahy\documents\visual studio 2013\Projects\BootstrapDualListbox.Asp.net\BootstrapDualListbox.Asp.net\bin\BootstrapDualListbox.Asp.net.dll.config
+c:\users\zahy\documents\visual studio 2013\Projects\BootstrapDualListbox.Asp.net\BootstrapDualListbox.Asp.net\bin\BootstrapDualListbox.Asp.net.dll
+c:\users\zahy\documents\visual studio 2013\Projects\BootstrapDualListbox.Asp.net\BootstrapDualListbox.Asp.net\bin\BootstrapDualListbox.Asp.net.pdb
+c:\users\zahy\documents\visual studio 2013\Projects\BootstrapDualListbox.Asp.net\BootstrapDualListbox.Asp.net\obj\Debug\BootstrapDualListbox.Asp.net.dll
+c:\users\zahy\documents\visual studio 2013\Projects\BootstrapDualListbox.Asp.net\BootstrapDualListbox.Asp.net\obj\Debug\BootstrapDualListbox.Asp.net.pdb
